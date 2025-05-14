@@ -1,0 +1,34 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header {
+    background-color: #a8dadc;
+    height: 20px;
+    border: 5px solid #a8dadc;
+}
+
+
+h1, h2 {
+    color: #6096ba;
+}
+
+p, ul {
+    color: #274c77;
+}
+
+a {
+    color: #274c77;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #a8dadc;
+    width: 100%;
+    border: 5px solid #a8dadc;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
