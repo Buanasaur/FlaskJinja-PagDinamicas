@@ -24,7 +24,8 @@ Depois execute o arquivo principal `app.py`
 * Estilos para a estrutura principal da página (`header`,`body`,`footer`).
 
 ## Exemplo de Herança de Template Filho (index.html):
-```{% extends "base.html" %}
+```
+{% extends "base.html" %}
 
 {% block titulo %}
     <title>Página Inicial</title>
