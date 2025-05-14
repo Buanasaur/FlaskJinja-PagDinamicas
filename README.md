@@ -9,7 +9,7 @@ O site contém uma interface básica e páginas dinâmicas de navegação
 * CSS
 
 ## Como Executar
-Para visualizar este exercício, certifique-se de ter o Python e o Flask instalados.
+Para visualizar este exercício, certifique-se de ter o Python e o Flask instalados.<br>
 Depois execute o arquivo principal `app.py`
 
 ## Elementos principais implementados
